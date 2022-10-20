@@ -1,0 +1,36 @@
+#contact-form {
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    width: 100vh;
+}
+#nameInput {
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+   border: 2px solid #f4e2d8;
+}
+#phoneInput {
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+   border: 2px solid #f4e2d8;
+}
+#btn {
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+   border: 2px solid #f4e2d8;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#p-tag {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
